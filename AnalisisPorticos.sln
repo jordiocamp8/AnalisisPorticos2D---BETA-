@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AnalisisPorticos", "AnalisisPorticos\AnalisisPorticos.pyproj", "{8402D1D3-1C8A-4303-8335-AD109BCD1C89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8402D1D3-1C8A-4303-8335-AD109BCD1C89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8402D1D3-1C8A-4303-8335-AD109BCD1C89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B3303B1-3161-440C-B178-4F1BA4A42A6B}
+	EndGlobalSection
+EndGlobal

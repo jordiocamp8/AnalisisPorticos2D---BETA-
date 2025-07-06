@@ -1,0 +1,9 @@
+Desplazamientos nodales:[0. 0. 0. 0. 0. 0. 0. 0.]
+
+Reacciones en apoyos:
+gdl 0: 0.0
+gdl 1: -10.5
+gdl 3: 0.0
+gdl 5: 0.0
+gdl 6: 0.0
+gdl 7: -10.5
